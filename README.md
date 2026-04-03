@@ -1,5 +1,8 @@
 # ETF Portfolio Simulator (Excel) – Tax, Inflation & Withdrawal Calculator (14 Countries)
 
+Download the full Excel simulator:
+https://reimgun.gumroad.com/l/rqcfjr
+
 Excel-based ETF portfolio simulator spreadsheet for long-term investing and retirement planning across multiple tax jurisdictions.
 
 This tool works as an ETF tax calculator, ETF withdrawal calculator, ETF inflation calculator and ETF retirement calculator for long-term investors across 14 countries.
